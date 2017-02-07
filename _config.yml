@@ -1,6 +1,7 @@
 
 title: JiongParty
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+#desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+desctiption: JiongParty(囧教), based on 囧。
 url: https://jiongparty.github.io/
 permalink: ':title/'
 
