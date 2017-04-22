@@ -4,7 +4,7 @@ title:  "Hello Jiong, +1"
 description: Test doc
 date:  2017-04-21
 categories: test
-img: image-6.jpg
+img: elder.jpg
 categories: [one, two]
 color: BF360C
 author: yichengr
