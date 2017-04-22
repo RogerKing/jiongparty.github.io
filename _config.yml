@@ -30,14 +30,14 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-48705014-2
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: jiongparty
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+api-token:
 
 include: [_pages]
 version: 0.8
