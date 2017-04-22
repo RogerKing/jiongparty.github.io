@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Jiong"
+title:  "Hello Jiong, +1"
 description: Test doc
 date:  2017-04-21
 categories: test
@@ -10,12 +10,14 @@ color: BF360C
 author: yichengr
 ---
 
-第一篇post。
++1s
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Jiong')
-#=> prints 'Hi, Jiong' to STDOUT.
+{% highlight java %}
+public class Person {
+    private long age = 0;
+    public void plus1s(Person elder) {
+        elder.age += 1;
+        this.age -= 1;
+    }
+}
 {% endhighlight %}
